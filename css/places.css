@@ -1,32 +1,4 @@
 h1 {
-  color: green;
-  text-align: center;
-}
-
-h2 {
-  color: orange;
-  font-style: oblique;
-}
-
-ul, ol {
-  font-family: courier;
-  color: #20E38B;
-  font-weight: 800;
-  line-height: 1.5em;
-}
-
-#balls {
-  color: #20D6E3;
-}
-
-#baconpic {
-  display: block;
-  margin: 0 auto;
-  border: 5px solid black;
-  border-radius: 8px;
-}
-
-h1 {
   text-align: center;
   background: #ccc;
   padding: 10px;
@@ -53,7 +25,7 @@ ul {
   border-radius: 25px;
 }
 
-.faveplaces {
+img {
   border: 5px solid black;
   border-radius: 8px;
 }
