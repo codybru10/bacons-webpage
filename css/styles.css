@@ -1,0 +1,23 @@
+h1 {
+  color: green;
+  text-align: center;
+}
+
+h2 {
+  color: orange;
+  font-style: oblique;
+}
+ul, ol {
+  font-family: courier;
+  color: #20E38B;
+}
+
+#balls {
+  color:#20D6E3;
+}
+#baconpic {
+  display: block;
+  margin: 0 auto;
+  border: 5px solid black;
+  border-radius: 8px;
+}
