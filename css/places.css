@@ -29,3 +29,8 @@ img {
   border: 5px solid black;
   border-radius: 8px;
 }
+
+.things {
+  background: lightgrey;
+  width:25%;
+}

@@ -57,3 +57,15 @@ ul {
   border: 5px solid black;
   border-radius: 8px;
 }
+
+.things {
+  background-color: lightgrey;
+  width:20%;
+  text-align: center;
+}
+
+.parks {
+  background-color: black;
+  width:19%;
+  text-align: center;
+}
