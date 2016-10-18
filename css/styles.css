@@ -69,3 +69,7 @@ ul {
   width:19%;
   text-align: center;
 }
+
+.yellow-background body{
+  background-color: yellow;
+}

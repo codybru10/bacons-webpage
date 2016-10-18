@@ -1,0 +1,13 @@
+.yellow-background {
+  background-color: yellow;
+}
+
+.dark-background {
+  background-color: #1A4590;
+  color: white;
+}
+
+.buttons {
+  margin-left: 240px;
+  padding-top: 15px;
+}
